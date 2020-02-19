@@ -12,8 +12,8 @@ Termím :term:`výbor` je zaměnitelný s termínem :term:`board`.
    :local:
 
 
-11. 12. 2019 - pyvec board schuze
----------------------------------
+11. 12. 2019 - schůze výboru
+----------------------------
 
 Chybí Jirka (aby otestoval zápis), Aleš je v Mekáči.
 
@@ -21,7 +21,7 @@ agenda (private board): https://trello.com/c/8j5NJSeS/20-1112-1515
 
 vypovězení AV firmě za Pycon
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-ostravská AV firma co dělala videa na Pyconu. Dostali zálohu (cca 1/2 finální částky).
+Ostravská AV firma co dělala videa na Pyconu. Dostali zálohu (cca 1/2 finální částky).
 Lumír to řeší měsíce, zatím nendodali nic (ani promo videa, ani záznamy).
 Už jim napsal, že se smlouva vypoví.
 
@@ -61,7 +61,7 @@ Tomáš Ehrlich dodá, kde se to tenkrát dělalo, možná dobrý nápad na revs
 
 Trello issues
 ^^^^^^^^^^^^^
-Máme nový sloupec v trello "ke schválení". Tam dávat všechno z "todo" a během callu házet do "done".
+Máme nový sloupec v Trello "ke schválení". Tam dávat všechno z "todo" a během callu házet do "done".
 
 Jakub udělal příklad s issue přidáním nového člena (z čehož ještě neudělal 2 issues na samotné přidávání).
 
@@ -86,14 +86,14 @@ Dne 18. 11. Zuzana Javorková požádala o grant do výše 10 000 Kč na tisk tr
 Grant byl schválen.
 
 
-14. 11. 2019 - pyvec board schuze
----------------------------------
+14. 11. 2019 - schůze výboru
+----------------------------
 
-Od teď bude vždycky do příště agenda jako kartička v trellu.
+Od teď bude vždycky do příště agenda jako kartička v Trellu.
 
 Martin s Honzou vyřešil finanční API Pyvce, je to v nějakém dokumentu, pak by se to mělo přetvořit jinam.
 
-Honza mluvil o grantu od někoho do Pyvce, řešilo se to v :slack:`#money`, pokud by to vyšlo šlo by do obálky pyladies.
+Honza mluvil o grantu od někoho do Pyvce, řešilo se to v :slack:`#money`, pokud by to vyšlo šlo by do obálky Pyladies.
 
 grantíky
 ^^^^^^^^
@@ -103,25 +103,25 @@ Příklad: žádost o peníze na trička pro pyladies a sponzor pošle peníze n
 Někdo požádá o grant na něco a v obálce peníze nemá, nebo je i v mínusu, pak hlasuje board.
 Příklad projektor pro pyvo.
 
-Míní výdaje jdou víceméně rovnou, ale schvaluje se taky.
+Mini výdaje jdou víceméně rovnou, ale schvaluje se taky.
 Příklad bianco šek na 500,- měsíčně na pastelky a spol.
 
 Nic z tohoto není zdokumentované a není formalizované, ale více méně se tak už děje. Je potřeba zrychlit hlasování.
-a nastavit, kde se granty drží, např: github issue s šablonou.
+A nastavit, kde se granty drží, např: github issue s šablonou.
 
 zápisy
 ^^^^^^
 Zápisy půjdou rovnou jako pull-request do docs.pyvec.org, všechno je open-source a pravda a láska, takže nemusíme
-nic filtrovat, maximálně se to v rámci přijmutí pull-requestu vyhodí, kdyby se řešilo něco hodně priváte,
+nic filtrovat, maximálně se to v rámci přijmutí pull-requestu vyhodí, kdyby se řešilo něco hodně *private*,
 ale vlastně se nám ještě nic takového nestalo.
 
 další
 ^^^^^
 Jakub dodělá přijmutí Radky ``=>`` elektronická schůze.
 
-Ales nás poslouchá, ale druhou rukou jisti dceru na stěně. Ale dostává úkoly v Trellu.
+Aleš nás poslouchá, ale druhou rukou jisti dceru na stěně. Ale dostává úkoly v Trellu.
 
-Ales pošle pozvánku na 11/12 na 15:15
+Aleš pošle pozvánku na 11/12 na 15:15
 
 Jirka se odpojil a zbytek boardu probíral tajné věci :D
 
@@ -131,7 +131,7 @@ Hlasování bude pokračovat ve Slacku, ale asi není potřeba dělat screenshot
 Je to pruda navíc a pull-request schvaluje někdo druhý.
 
 
-23. 10. 2019 - Schůze výboru
+23. 10. 2019 - schůze výboru
 ----------------------------
 
 :term:`Výbor` se sešel ve Fragarii v následujícím složení:
